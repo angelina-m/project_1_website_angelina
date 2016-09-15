@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Pacifico|Kaushan+Script';
+@import 'https://fonts.googleapis.com/css?family=Pacifico|Kaushan+Script|Lobster+Two';
 
 h1 {
   text-align: center;
@@ -6,4 +6,7 @@ h1 {
 }
 p {
   font-family: Kaushan Script;
+}
+body {
+  background-image: url(http://www.ihdwallfree.com/wp-content/uploads/2014/02/ballerina-dancing-wallpaper-white-woman-people-full-hd.jpg);
 }

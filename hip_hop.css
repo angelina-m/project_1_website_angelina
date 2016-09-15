@@ -1,21 +1,22 @@
-@import 'https://fonts.googleapis.com/css?family=Bangers';
+@import 'https://fonts.googleapis.com/css?family=Bangers|Economica';
 h1 {
   text-align: center;
   background-color: white;
   margin: 25px;
   font-family: Bangers;
 }
-body {
-  background-size: 1200px 1000px;
-  background-image: url();
-}
 p {
   background-color: white;
 }
-#dytto {
+img {
+  display: block;
+  margin: 0 auto;
   width: 300px;
 
 }
 h2 {
   text-align: center;
+}
+body {
+  background-image: url(https://images.designtrends.com/wp-content/uploads/2015/12/17044424/Shiny-Silver-Background.jpg);
 }
