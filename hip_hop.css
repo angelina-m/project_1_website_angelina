@@ -1,0 +1,21 @@
+@import 'https://fonts.googleapis.com/css?family=Bangers';
+h1 {
+  text-align: center;
+  background-color: white;
+  margin: 25px;
+  font-family: Bangers;
+}
+body {
+  background-size: 1200px 1000px;
+  background-image: url();
+}
+p {
+  background-color: white;
+}
+#dytto {
+  width: 300px;
+
+}
+h2 {
+  text-align: center;
+}

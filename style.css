@@ -1,0 +1,46 @@
+
+
+p {
+  color : ;
+}
+h1 {
+  text-align: center;
+  color: ;
+  font-family:;
+}
+h2 {
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
+#first_block {
+  background-color: white;
+  margin-right: auto;
+  text-align: left;
+  width: 80%;
+  border-style: dotted;
+  display:block;
+}
+#ian {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 20px;
+
+}
+
+#second_block {
+  background-color: purple;
+  margin-left: auto;
+  width: 90%;
+}
+
+#header {
+  background-color: white;
+}
+#header_2 {
+  background-color: white;
+}
+body {
+  background-image: url(https://mayabrown96.files.wordpress.com/2014/01/dance-studio.jpg);
+}

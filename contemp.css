@@ -1,0 +1,9 @@
+@import 'https://fonts.googleapis.com/css?family=Pacifico|Kaushan+Script';
+
+h1 {
+  text-align: center;
+  font-family: Pacifico;
+}
+p {
+  font-family: Kaushan Script;
+}
