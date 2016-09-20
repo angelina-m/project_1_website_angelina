@@ -1,18 +1,37 @@
-@import 'https://fonts.googleapis.com/css?family=Bangers|Economica';
+@import 'https://fonts.googleapis.com/css?family=Bangers|Economica|Homenaje|Allerta+Stencil';
 h1 {
   text-align: center;
-  background-color: white;
-  margin: 25px;
+  background-color: #89343F;
+  margin: 50px;
   font-family: Bangers;
+  font-size: 50px;
 }
-p {
-  background-color: white;
+h2 {
+  background-color: #89343F;
+  margin: 50px;
+  font-size: 40px;
+}
+
+#hip {
+  font-family: Homenaje;
+  background-color: #6A97B6;
+  font-size: 20px;
+}
+#animation {
+  background-color: #6A97B6;
+  font-size: 20px;
+  font-family: Allerta Stencil;
 }
 img {
   display: block;
   margin: 0 auto;
   width: 300px;
 
+}
+#break {
+  background-color: #6A97B6;
+  font-size: 20px;
+  font-family: Allerta Stencil;
 }
 h2 {
   text-align: center;

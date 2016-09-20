@@ -1,26 +1,33 @@
-
+@import 'https://fonts.googleapis.com/css?family=Economica|Oleo+Script';
 
 p {
   color : ;
+
 }
 h1 {
   text-align: center;
   color: ;
   font-family:;
+  background-color: silver;
 }
 h2 {
   text-align: center;
+  background-color: silver;
 }
 nav {
   text-align: center;
+  background-color: white;
+  width: 200;
+  margin: auto;
 }
 #first_block {
-  background-color: white;
+  background-color: silver;
   margin-right: auto;
   text-align: left;
   width: 80%;
   border-style: dotted;
   display:block;
+  font-family: Economica;
 }
 #ian {
   display: block;
@@ -33,6 +40,7 @@ nav {
   background-color: purple;
   margin-left: auto;
   width: 90%;
+  font-family: Oleo Script;;
 }
 
 #header {
@@ -41,6 +49,10 @@ nav {
 #header_2 {
   background-color: white;
 }
+
 body {
   background-image: url(https://mayabrown96.files.wordpress.com/2014/01/dance-studio.jpg);
+}
+#sources {
+  text-align: center;
 }
