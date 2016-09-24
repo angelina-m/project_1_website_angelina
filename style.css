@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Economica|Oleo+Script';
+@import 'https://fonts.googleapis.com/css?family=Economica|Oleo+Script|Kite+One|Expletus+Sans';
 
 p {
   color : ;
@@ -7,27 +7,34 @@ p {
 h1 {
   text-align: center;
   color: ;
-  font-family:;
+  font-family:Expletus Sans;
   background-color: silver;
+  margin: 4%;
 }
 h2 {
   text-align: center;
   background-color: silver;
+  margin: auto;
+  display: block;
 }
 nav {
   text-align: center;
-  background-color: white;
+  background-color:  #C0B0B0;
   width: 200;
-  margin: auto;
+  margin-right: auto;
+}
+#header_2 {
+  display: block;
 }
 #first_block {
   background-color: silver;
   margin-right: auto;
   text-align: left;
   width: 80%;
-  border-style: dotted;
-  display:block;
+  border-style:
+  display: block;
   font-family: Economica;
+  font-size: 19px;
 }
 #ian {
   display: block;
@@ -37,21 +44,15 @@ nav {
 }
 
 #second_block {
-  background-color: purple;
+  background-color: #C196D1;
   margin-left: auto;
   width: 90%;
-  font-family: Oleo Script;;
-}
-
-#header {
-  background-color: white;
-}
-#header_2 {
-  background-color: white;
+  font-family: Kite One;
 }
 
 body {
   background-image: url(https://mayabrown96.files.wordpress.com/2014/01/dance-studio.jpg);
+
 }
 #sources {
   text-align: center;
